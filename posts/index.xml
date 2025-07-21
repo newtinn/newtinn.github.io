@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on newtinn blog</title>
-    <link>https://newtinn.github.io/posts/</link>
-    <description>Recent content in Posts on newtinn blog</description>
+    <title>Posts on matt newton</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on matt newton</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Jul 2025 13:59:27 +0100</lastBuildDate>
-    <atom:link href="https://newtinn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>https://newtinn.github.io/posts/first_post/</link>
-      <pubDate>Mon, 21 Jul 2025 13:59:27 +0100</pubDate>
-      <guid>https://newtinn.github.io/posts/first_post/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h1 id=&#34;my-first-post&#34;&gt;My First Post&lt;/h1&gt;&#xA;&lt;p&gt;This is some content&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

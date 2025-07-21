@@ -1,0 +1,6 @@
+hr {
+  border: none; /* Remove browser default border */
+  height: 2px; /* Thickness of the line */
+  background-color: #444; /* Solid color (dark gray in this case) */
+  margin: 1.5rem 0; /* Spacing above/below */
+}
